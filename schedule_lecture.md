@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schedule
 course_number: ECE260
 title: Lecture Schedule
 ---
