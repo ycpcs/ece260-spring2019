@@ -48,7 +48,7 @@ subsystems, machine level representation of data, assembly level machine organiz
 multiprocessing, and alternative architectures.
 
 
-**Prerequisites:**	CS201 with a grade of 2.0 or higher<br>
+**Prerequisites:**	ECE220 with a grade of 2.0 or higher<br>
 **Credit:**		4 credit hours<br>
 **Text:**		[Interactive Online zyBook](https://learn.zybooks.com/signup) (get code from instructor and create account)<br>
 
