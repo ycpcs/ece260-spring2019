@@ -53,7 +53,7 @@ multiprocessing, and alternative architectures.
 **Prerequisites:**	ECE220 with a grade of 2.0 or higher<br>
 **Credit:**		4 credit hours<br>
 **Text:**		[Interactive Online zyBook](https://learn.zybooks.com/signup)<br>
-**ZyBook Code:**  Sections 101 & 102 use code **YCPECE260MoscolaSpring2019**
+**ZyBook Code:**  Sections 101 & 102 use code: **YCPECE260MoscolaSpring2019**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
