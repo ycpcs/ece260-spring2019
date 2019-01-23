@@ -17,7 +17,7 @@ title: Syllabus
 
  - **Section 101: Lecture:** T Th    9:30 PM - 10:45 AM / **Lab:** T    11:00 AM - 1:45 PM<br>
  - **Section 102: Lecture:** T Th    9:30 PM - 10:45 AM / **Lab:** W     2:00 PM - 4:45 PM<br>
- - **Section 103: Lecture:** T Th    2:00 PM - 3:15 PM  / **Lab:** R    11:00 AM - 1:45 PM<br>
+ <!-- - **Section 103: Lecture:** T Th    2:00 PM - 3:15 PM  / **Lab:** R    11:00 AM - 1:45 PM<br> -->
  
 **Location: Lecture:** KEC129 **/ Lab:** KEC124<br>
 **Webpage:**  [https://ycpcs.github.io/ece260-spring2019/](https://ycpcs.github.io/ece260-spring2019/)
@@ -28,11 +28,13 @@ title: Syllabus
 **Phone:** (717) 815-1276<br>
 **Office Hours:** M F: 1:15 PM - 2:30 PM;  T R: 1:45 PM - 3:00 PM
 
+<!-- 
 **Instructor:** Brian Hetsko<br>
 **Email:** <bhetsko@ycp.edu><br>
 **Office:** KEC 100<br>
 **Phone:** (717) 815-xxxx<br>
 **Office Hours:** xxxxx
+-->
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
@@ -50,7 +52,8 @@ multiprocessing, and alternative architectures.
 
 **Prerequisites:**	ECE220 with a grade of 2.0 or higher<br>
 **Credit:**		4 credit hours<br>
-**Text:**		[Interactive Online zyBook](https://learn.zybooks.com/signup) (get code from instructor and create account)<br>
+**Text:**		[Interactive Online zyBook](https://learn.zybooks.com/signup)<br>
+**ZyBook Code:**  Sections 101 & 102 use code **YCPECE260MoscolaSpring2019**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
