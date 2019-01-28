@@ -18,9 +18,9 @@ From the Windows Start Menu, start a **Cygwin Shell** and run the following comm
 
 
 The folder contains a Microsoft Word document named **Lab01_Game_of_Life.docx**
-and a subfolder named **Lab01_Game_of_Life_Project_Files**. 
+and a subfolder named **src**. 
 
-Inside the **Lab01_Game_of_Life_Project_Files** folder, open the file **Lab01_Game_of_Life.sln** with Visual Studio 2013.
+Inside the **src** folder, open the file **game_of_life.cpp** with Notepad++.
   
 Open the **Lab01_Game_of_Life.docx** with Microsoft Word.  Additional instructions for this lab assignment are 
 included in the Word document.
