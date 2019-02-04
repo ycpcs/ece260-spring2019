@@ -11,7 +11,7 @@ Additional content will be added as it becomes available throughout the semester
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
 Week of Jan 28 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week after assigned
-Week of Feb 4  |  |
+Week of Feb 4  |  [Computer Architecture](labs/lab02.html)                              |  1 week after assigned
 Week of Feb 11 |  |
 Week of Feb 18 |  |
 Week of Feb 25 |  |
