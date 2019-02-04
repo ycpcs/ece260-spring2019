@@ -16,11 +16,11 @@ From the Windows Start Menu, start a **Cygwin Shell** and run the following comm
     unzip Lab02_Computer_Architecture.zip
     cd Lab02_Computer_Architecture
 
-
 The folder contains a Microsoft Word document named **Lab02_Computer_Architecture.docx**
-and a subfolder named **Lab02_Computer_Architecture_Project_Files**. 
+and a subfolder named **src**. 
 
-Inside the **Lab02_Computer_Architecture_Project_Files** folder, open the file **Lab02_Computer_Architecture.sln** with Visual Studio 2013.
+Inside the **src** folder, open the file **main.cpp** with Notepad++.  
+You should also open **functions.h** and **functions.cpp**.
   
 Open the **Lab02_Computer_Architecture.docx** with Microsoft Word.  Additional instructions for this lab assignment are 
 included in the Word document.
