@@ -59,7 +59,7 @@ If necessary, add leading 0’s to extend the binary value.
 (c) 0xFF10
 
 
-These exercises are all from section 2.21 of your zyBook
+These exercises are all from section 2.22 of your zyBook
 ======================
 2.1    (0 - 3 points)
 2.2    (0 - 3 points)
