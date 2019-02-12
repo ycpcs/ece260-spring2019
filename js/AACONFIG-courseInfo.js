@@ -41,6 +41,9 @@ var courseInfo = {
             reading: new Reading("Assign#5 §§ 2.5 - 2.6")
         },
         {
+            topic: new Topic( "Delayed Opening -- Reviewed Homework #2" )
+        },
+        {
             topic: new Topic( "MIPS Branching Instructions", "lectures/lecture6_MIPS_Branching_Instructions.pdf" ),
             reading: new Reading("Assign#6 § 2.7"),
             assign: new Homework("Homework #3", "homework/Homework_Assignment_3.txt", 7)
