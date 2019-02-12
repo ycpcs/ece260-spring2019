@@ -52,13 +52,13 @@ var courseInfo = {
             topic: new Topic( "Supporting Procedures in Computer Hardware", "lectures/lecture7_Supporting_Procedures_in_Computer_Hardware.pdf" ),
             reading: new Reading("Assign#7 § 2.8")
         },
+        {  // this was swapped with the following item since the CE candidate was already given instructions to present this material
+            topic: new Topic( "Accessing and Addressing Memory", "lectures/lecture9_Accessing_and_Addressing_Memory.pdf" ),
+            reading: new Reading("Assign#8 § 2.9, § 2.10, § 2.13")
+        },
         {
             topic: new Topic( "Supporting Nested Procedures", "lectures/lecture8_Supporting_Nested_Procedures.pdf" ),
             assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 7)
-        },
-        {
-            topic: new Topic( "Accessing and Addressing Memory", "lectures/lecture9_Accessing_and_Addressing_Memory.pdf" ),
-            reading: new Reading("Assign#8 § 2.9, § 2.10, § 2.13")
         },
         {
             topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
