@@ -14,7 +14,7 @@ Each problem (or part) is worth from 0 to 3 points.
 
 
 
-These exercises are all from section 2.21 of your zyBook
+These exercises are all from section 2.22 of your zyBook
 ====================
 2.27   (0 - 3 points)
 2.29   (0 - 3 points)

@@ -19,7 +19,7 @@ PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH EXERCISE
 
 
 
-These exercises are all from section 2.21 of your zyBook
+These exercises are all from section 2.22 of your zyBook
 ======================
 2.9    (0 - 3 points)
 2.14   (0 - 3 points)
