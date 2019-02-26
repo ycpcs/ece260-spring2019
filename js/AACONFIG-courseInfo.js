@@ -61,15 +61,16 @@ var courseInfo = {
             topic: new Topic( "Supporting Nested Procedures", "lectures/lecture8_Supporting_Nested_Procedures.pdf" )
             //assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 7)
         },
-        {
-            topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
-            reading: new Reading("Assign#9 § 2.12")
+        {   // homework #4 was originally assigned here .. but was moved up to account for rearranged schedule
+            topic: new Topic( "Supporting Nested Procedures (continued)", "lectures/lecture8_Supporting_Nested_Procedures.pdf" )
+            //assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 7)
         },
         {
             topic: new Topic( "** Exam #1", "" )
         },
         {
-            topic: new Topic( "Review of Exam #1", "" )
+            topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
+            reading: new Reading("Assign#9 § 2.12")
         },
         {
             topic: new Topic( "Arithmetic for Computers", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
