@@ -91,9 +91,12 @@ var courseInfo = {
             reading: new Reading("Assign #13 § 4.4")
         },
         {
+            topic: new Topic( "Reviewed Homework #6" )
+        },
+        {
             topic: new Topic( "Pipelining", "lectures/lecture13_Pipelining.pdf" ),
             reading: new Reading("Assign #14 § 4.5"),
-            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 9)
+            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 12)
         },
         {
             topic: new Topic( "Pipelined Datapath and Control", "lectures/lecture14_Pipelined_Datapath_and_Control.pdf" ),
