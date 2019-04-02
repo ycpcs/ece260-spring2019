@@ -17,9 +17,9 @@ Week of Feb 18 |  [Branching and Conditional Assembly](labs/lab04.html)         
 Week of Feb 25 |  (continued from previous week on account of snow                      |
 Week of Mar 4  |  **NO LAB - Winter Break**                                             |
 Week of Mar 11 |  [MIPS Procedures](labs/lab05.html)                                    |  1 week after assigned
-Week of Mar 18 |  [More MIPS Procedures](labs/lab06.html)                               |  1 week after assigned
-Week of Mar 25 |  | 
-Week of Apr 1  |  |
+Week of Mar 18 |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks after assigned
+Week of Mar 25 |  (continue work on Lab06)                                              | 
+Week of Apr 1  |  [Introduction to Floating-Point Operations](labs/lab07.html)          |  1 week after assigned
 Week of Apr 8  |  |
 Week of Apr 15 |  **NO LAB - Spring Vacation**                                          |
 Week of Apr 22 |  |
