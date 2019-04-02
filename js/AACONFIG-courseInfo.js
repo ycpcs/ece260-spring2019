@@ -92,12 +92,13 @@ var courseInfo = {
         },
         {
             topic: new Topic( "Pipelining", "lectures/lecture13_Pipelining.pdf" ),
-            reading: new Reading("Assign #14 § 4.5")
+            reading: new Reading("Assign #14 § 4.5"),
+            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 9)
         },
         {
             topic: new Topic( "Pipelined Datapath and Control", "lectures/lecture14_Pipelined_Datapath_and_Control.pdf" ),
-            reading: new Reading("Assign #15 § 4.6"),
-            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 7)
+            reading: new Reading("Assign #15 § 4.6")
+
         },
         {
             topic: new Topic( "Data Hazards in a Pipelined Datapath", "lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf" ),
