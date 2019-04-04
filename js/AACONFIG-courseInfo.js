@@ -41,7 +41,7 @@ var courseInfo = {
             reading: new Reading("Assign#5 §§ 2.5 - 2.6")
         },
         {
-            topic: new Topic( "Delayed Opening -- Reviewed Homework #2" )
+            topic: new Topic( "Delayed Opening -- Review Homework #2" )
         },
         {
             topic: new Topic( "MIPS Branching Instructions", "lectures/lecture6_MIPS_Branching_Instructions.pdf" ),
@@ -91,7 +91,7 @@ var courseInfo = {
             reading: new Reading("Assign #13 § 4.4")
         },
         {
-            topic: new Topic( "Reviewed Homework #6" )
+            topic: new Topic( "Review Homework #6" )
         },
         {
             topic: new Topic( "Pipelining", "lectures/lecture13_Pipelining.pdf" ),
@@ -108,10 +108,10 @@ var courseInfo = {
             reading: new Reading("Assign #16 §§ 4.7 - 4.8")
         },
         {
-            topic: new Topic( "** Exam #2", "" )
+            topic: new Topic( "Review Homework #7" )
         },
         {
-            topic: new Topic( "Review of Exam #2", "" )
+            topic: new Topic( "** Exam #2", "" )
         },
         {
             topic: new Topic( "Memory and Memory Technologies", "lectures/lecture16_Memory_and_Memory_Technologies.pdf" ),
@@ -124,6 +124,9 @@ var courseInfo = {
         },
         {
             topic: new Topic( "Basics of Cache Memory (continued)", "lectures/lecture17_Basics_of_Cache_Memory.pdf" )
+        },
+        {
+            topic: new Topic( "Review Homework #8" )
         },
         {
             topic: new Topic( "** Exam #3", "" )
