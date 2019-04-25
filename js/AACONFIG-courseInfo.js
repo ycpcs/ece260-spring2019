@@ -116,7 +116,7 @@ var courseInfo = {
         {
             topic: new Topic( "Memory and Memory Technologies", "lectures/lecture16_Memory_and_Memory_Technologies.pdf" ),
             reading: new Reading("Assign #17 §§ 5.1 - 5.2"),
-            assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 7)
+            assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 12)
         },
         {
             topic: new Topic( "Basics of Cache Memory", "lectures/lecture17_Basics_of_Cache_Memory.pdf" ),
